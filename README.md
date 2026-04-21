@@ -1,37 +1,24 @@
 # Malte-Roggenberg
 Mechanical Engineering student @ TUM | Hardware prototyping &amp; embedded systems
-![Header](https://via.placeholder.com/800x200?text=Hardware+Prototyping+%7C+Embedded+Systems)
-# Hi, I'm Malte 👋
 
-Mechanical Engineering student at TUM with a strong focus on hardware prototyping, embedded systems and building real-world projects.
+Hi, I'm Malte.
 
-## 🔧 What I do
-- Develop embedded systems using ESP32 and Arduino  
-- Design and build hardware prototypes combining electronics and 3D printing  
-- Work on robotics, control systems and rapid prototyping projects  
+I'm studying Mechanical Engineering at TUM and I mainly work on hardware projects. Most of what I do is building and testing systems with microcontrollers, sensors and 3D-printed parts.
 
-## 🚀 Projects
-Currently documenting and publishing selected projects, including:
-- Mobile robots (BLE control & line following)
-- 400W portable speaker system with custom control panel & DSP
-- Smart posture sensing seat mat (Think.Make.Start, TUM)
+Right now I'm starting to document my projects here on GitHub. Until now, most of them were not documented in a structured way.
 
-More detailed project documentation will be added over time.
+Projects I've worked on include:
+- a line-following robot with BLE-based control
+- a 400W portable speaker with custom control panel and DSP
+- a posture sensing seat mat developed during Think.Make.Start
 
-## 🎥 Project example
-Line-following robot built in a rapid prototyping project:  
+Example:
 https://youtu.be/W0-qSB0AaRA
 
-## 🛠 Tech Stack
-- Hardware: ESP32, sensors, motor drivers  
-- CAD: SolidWorks (CSWA)  
-- Programming: C/C++ (Arduino), MATLAB  
-- Prototyping: 3D printing, electronics  
+Technically, I mostly work with ESP32/Arduino (C/C++), SolidWorks, and general hardware prototyping (electronics, sensors, motor control, 3D printing).
 
-## 📌 Currently
-- Expanding project documentation on GitHub  
-- Building new hardware systems and prototypes  
+I'm currently working on improving documentation and publishing projects here step by step.
 
-## 📫 Contact
-- Email: malte@roggenberg.de  
-- LinkedIn: https://linkedin.com/in/malte-roggenberg
+Contact:
+malte@roggenberg.de  
+https://linkedin.com/in/malte-roggenberg
