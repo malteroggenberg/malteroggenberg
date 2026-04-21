@@ -1,6 +1,6 @@
 # Malte-Roggenberg
 Mechanical Engineering student @ TUM | Hardware prototyping &amp; embedded systems
-
+![Header](https://via.placeholder.com/800x200?text=Hardware+Prototyping+%7C+Embedded+Systems)
 # Hi, I'm Malte 👋
 
 Mechanical Engineering student at TUM with a strong focus on hardware prototyping, embedded systems and building real-world projects.
