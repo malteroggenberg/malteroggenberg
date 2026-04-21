@@ -1,24 +1,40 @@
 # Malte-Roggenberg
-Mechanical Engineering student @ TUM | Hardware prototyping &amp; embedded systems
+![Maintained](https://img.shields.io/badge/maintained-yes-green)
 
-Hi, I'm Malte.
 
-I'm studying Mechanical Engineering at TUM and I mainly work on hardware projects. Most of what I do is building and testing systems with microcontrollers, sensors and 3D-printed parts.
+Hi :)
 
-Right now I'm starting to document my projects here on GitHub. Until now, most of them were not documented in a structured way.
+This repository is mainly used to document my hardware projects and experiments.
 
-Projects I've worked on include:
-- a line-following robot with BLE-based control
-- a 400W portable speaker with custom control panel and DSP
-- a posture sensing seat mat developed during Think.Make.Start
+Most of the things I build are not originally designed to be published, so I'm starting to use this space to organize and document them over time. I also use it as a reference for myself.
+
+In addition, I plan to open-source selected projects, especially 3D designs, prototypes and printable parts, so others can use or build on them.
+
+## Focus
+
+- Embedded systems (ESP32, Arduino)
+- Hardware prototyping
+- Robotics and control systems
+- 3D design and printing
+
+## Projects
+
+Documentation will be added step by step.  
+Some examples of what I'm working on:
+
+- Line-following robot with BLE control  
+- 400W portable speaker with custom control panel and DSP  
+- Posture sensing seat mat (Think.Make.Start)
 
 Example:
 https://youtu.be/W0-qSB0AaRA
 
-Technically, I mostly work with ESP32/Arduino (C/C++), SolidWorks, and general hardware prototyping (electronics, sensors, motor control, 3D printing).
+## Note
 
-I'm currently working on improving documentation and publishing projects here step by step.
+I'm still getting used to GitHub and improving how I document projects.  
+The goal is to make everything clearer and more structured over time.
 
-Contact:
+## Contact
+
 malte@roggenberg.de  
 https://linkedin.com/in/malte-roggenberg
